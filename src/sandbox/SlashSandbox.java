@@ -1,4 +1,4 @@
-package example;
+package sandbox;
 
 import arc.*;
 import arc.util.*;
