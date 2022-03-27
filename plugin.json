@@ -1,7 +1,7 @@
 {
-  "name": "ExamplePlugin",
-  "author": "Anuke",
-  "main": "example.ExamplePlugin",
-  "description": "A plugin to demonstrate some basic features.",
+  "name": "sandbox",
+  "author": "SMOLKEYS",
+  "main": "sandbox.SlashSandbox",
+  "description": "real",
   "version": 1.0
 }
